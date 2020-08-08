@@ -1,16 +1,14 @@
-### Hi there 👋
+## 🐲 About me
 
-<!--
-**NobleDraconian/NobleDraconian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie game developer on [Robox](https://create.roblox.com/), currently running the startup [Phoenix Entertainment](https://twitter.com/Phoenix_Devs). I have roughly 8 years of programming experience, mostly working in Lua.
 
-Here are some ideas to get you started:
+## 📫 Contact information:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email : BinaryByte.DEV@gmail.com
+
+Discord : NobleDraconian#0975
+
+## 🛠️ Projects
+
+### [Dragon Engine](https://github.com/NobleDraconian/Dragon-Engine)
+Dragon Engine is a framework for Roblox games that follows a microservice architecture, with a built-in module loader with run-time dependency resolution capabilities.
