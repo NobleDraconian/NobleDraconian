@@ -1,6 +1,6 @@
 ## 🐲 About me
 
-Indie game developer on [Robox](https://create.roblox.com/), currently running the startup [Phoenix Entertainment](https://twitter.com/Phoenix_Devs). I have roughly 8 years of programming experience, mostly working in Lua.
+Indie game developer on [Roblox](https://create.roblox.com/), currently running the startup [Phoenix Entertainment](https://twitter.com/Phoenix_Devs). I have roughly 8 years of programming experience, mostly working in Lua.
 
 ## 📫 Contact information:
 
