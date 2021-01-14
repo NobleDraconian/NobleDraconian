@@ -12,3 +12,12 @@ Dragon Engine is a framework for Roblox games that follows a microservice archit
 Email : BinaryByte.DEV@gmail.com
 
 Discord : Noble Draconian#0001
+
+## Statistics
+
+<a href="https://github.com/NobleDraconian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NobleDraconian&show_icons=true&custom_title=Github%20Stats&theme=darcula"/>
+</a>
+<a href="https://github.com/NobleDraconian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleDraconian&count_private=true&custom_title=Top%20Languages&theme=darcula"/>
+</a>
