@@ -16,8 +16,8 @@ Discord : Noble Draconian#0001
 ## Statistics
 
 <a href="https://github.com/NobleDraconian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NobleDraconian&show_icons=true&custom_title=Github%20Stats&theme=darcula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NobleDraconian&show_icons=true&custom_title=Github%20Stats&theme=darcula&hide_border=true"/>
 </a>
 <a href="https://github.com/NobleDraconian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleDraconian&count_private=true&custom_title=Top%20Languages&theme=darcula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleDraconian&count_private=true&custom_title=Top%20Languages&theme=darcula&hide_border=true"/>
 </a>
