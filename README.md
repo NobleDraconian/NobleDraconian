@@ -1,6 +1,6 @@
 ## :man_technologist: About me
 
-Indie game developer on [Roblox](https://create.roblox.com/), currently running the startup [Phoenix Entertainment](https://twitter.com/Phoenix_Devs). I have roughly 9 years of programming experience, mostly working in Lua.
+Game developer on [Roblox](https://create.roblox.com/), currently running the startup [Phoenix Entertainment](https://twitter.com/Phoenix_Devs). I have roughly 9 years of programming experience, mostly working in Lua.
 
 - 2020 Bloxy Winner for "Best Live Event"
 - RDC 2020 gamejam winner for "Most Creative Gameplay" (https://github.com/NobleDraconian/Gamejam-2020)
