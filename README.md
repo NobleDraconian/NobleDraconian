@@ -25,6 +25,3 @@ Discord : Noble_Draconian#0001
 <a href="https://github.com/NobleDraconian">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobleDraconian&count_private=true&custom_title=Top%20Languages&theme=react&hide_border=true"/>
 </a>
-<a href="https://github.com/NobleDraconian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Noble_Draconian&layout=compact&theme=react&hide_border=true&custom_title=Weekly%20Coding%20Stats"/>
-</a>
