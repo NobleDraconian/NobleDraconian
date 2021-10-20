@@ -15,7 +15,7 @@ Dragon Engine is a framework for Roblox games that follows a microservice archit
 
 Email : Accessible on the left side!
 
-Discord : Noble Draconian#0001
+Discord : Noble_Draconian#0001
 
 ## Statistics
 
