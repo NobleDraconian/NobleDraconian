@@ -18,6 +18,8 @@ Email : Accessible on the left side!
 
 Discord : Noble_Draconian#0001
 
+Twitter : https://twitter.com/Noble_Draconian
+
 ## Statistics
 
 <a href="https://github.com/NobleDraconian">
